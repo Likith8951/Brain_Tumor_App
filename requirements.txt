@@ -1,0 +1,9 @@
+Flask>=2.0
+tensorflow>=2.10
+numpy
+opencv-python
+scikit-image
+scikit-learn>=1.4.0
+joblib
+Pillow
+tqdm
